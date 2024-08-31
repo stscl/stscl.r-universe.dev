@@ -2,5 +2,9 @@
   {
     "package": "geocn",
     "url": "https://github.com/stscl/geocn"
+  },
+  {
+    "package": "sdsfun",
+    "url": "https://github.com/stscl/sdsfun"
   }
 ]
