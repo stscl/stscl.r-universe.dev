@@ -6,5 +6,9 @@
   {
     "package": "sdsfun",
     "url": "https://github.com/stscl/sdsfun"
+  },
+  {
+    "package": "gdverse",
+    "url": "https://github.com/stscl/gdverse"
   }
 ]
