@@ -18,5 +18,9 @@
   {
     "package": "cisp",
     "url": "https://github.com/stscl/cisp"
+  },
+  {
+    "package": "sshicm",
+    "url": "https://github.com/stscl/sshicm"
   }
 ]
