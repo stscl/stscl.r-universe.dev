@@ -20,11 +20,15 @@
     "url": "https://github.com/stscl/cisp"
   },
   {
-    "package": "sshicm",
-    "url": "https://github.com/stscl/sshicm"
-  },
-  {
     "package": "spEDM",
     "url": "https://github.com/stscl/spEDM"
+  },
+  {
+    "package": "itmsa",
+    "url": "https://github.com/stscl/itmsa"
+  },
+  {
+    "package": "sshicm",
+    "url": "https://github.com/stscl/sshicm"
   }
 ]
