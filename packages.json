@@ -1,23 +1,11 @@
 [
   {
-    "package": "geocn",
-    "url": "https://github.com/stscl/geocn"
-  },
-  {
     "package": "sdsfun",
     "url": "https://github.com/stscl/sdsfun"
   },
   {
     "package": "gdverse",
     "url": "https://github.com/stscl/gdverse"
-  },
-  {
-    "package": "sesp",
-    "url": "https://github.com/stscl/sesp"
-  },
-  {
-    "package": "cisp",
-    "url": "https://github.com/stscl/cisp"
   },
   {
     "package": "spEDM",
@@ -30,5 +18,13 @@
   {
     "package": "sshicm",
     "url": "https://github.com/stscl/sshicm"
+  },
+  {
+    "package": "geocn",
+    "url": "https://github.com/stscl/geocn"
+  },
+  {
+    "package": "cisp",
+    "url": "https://github.com/stscl/cisp"
   }
 ]
