@@ -26,5 +26,9 @@
   {
     "package": "cisp",
     "url": "https://github.com/stscl/cisp"
+  },
+  {
+    "package": "sesp",
+    "url": "https://github.com/stscl/sesp"
   }
 ]
