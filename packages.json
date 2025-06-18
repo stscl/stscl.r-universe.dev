@@ -12,6 +12,10 @@
     "url": "https://github.com/stscl/spEDM"
   },
   {
+    "package": "tEDM",
+    "url": "https://github.com/stscl/tEDM"
+  },
+  {
     "package": "itmsa",
     "url": "https://github.com/stscl/itmsa"
   },
