@@ -16,6 +16,10 @@
     "url": "https://github.com/stscl/tEDM"
   },
   {
+    "package": "infoxtr",
+    "url": "https://github.com/stscl/infoxtr"
+  },
+  {
     "package": "infocausality",
     "url": "https://github.com/stscl/infocausality"
   },
