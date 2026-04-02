@@ -1,4 +1,4 @@
-setwd('./pkgdev/stscl.r-universe.dev/')
+# setwd('./project/stscl.r-universe.dev/')
 
 df = data.frame(
   package = c("sdsfun", "gdverse", "spEDM", "tEDM", "infoxtr",
