@@ -2,8 +2,8 @@
 
 df = data.frame(
   package = c("sdsfun", "gdverse", "spEDM", "tEDM", "infoxtr",
-              "pc", "infocausality", "itmsa", "sshicm", "geocn", 
-              "cisp", "sesp"
+              "pc", "coupling", "geocn", "infocausality", "itmsa", 
+              "sshicm", "cisp", "sesp"
               ),
   url = c("https://github.com/stscl/sdsfun",
           "https://github.com/stscl/gdverse",
@@ -11,13 +11,14 @@ df = data.frame(
           "https://github.com/stscl/tEDM",
           "https://github.com/stscl/infoxtr",
           "https://github.com/stscl/pc",
+          "https://github.com/stscl/coupling",
+          "https://github.com/stscl/geocn",
           "https://github.com/stscl/infocausality",
           "https://github.com/stscl/itmsa",
           "https://github.com/stscl/sshicm",
-          "https://github.com/stscl/geocn",
           "https://github.com/stscl/cisp",
           "https://github.com/stscl/sesp"
           ),
-  subdir = rep(NA,12)
+  subdir = rep(NA,13)
 )
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
