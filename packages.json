@@ -24,6 +24,14 @@
     "url": "https://github.com/stscl/pc"
   },
   {
+    "package": "coupling",
+    "url": "https://github.com/stscl/coupling"
+  },
+  {
+    "package": "geocn",
+    "url": "https://github.com/stscl/geocn"
+  },
+  {
     "package": "infocausality",
     "url": "https://github.com/stscl/infocausality"
   },
@@ -34,10 +42,6 @@
   {
     "package": "sshicm",
     "url": "https://github.com/stscl/sshicm"
-  },
-  {
-    "package": "geocn",
-    "url": "https://github.com/stscl/geocn"
   },
   {
     "package": "cisp",
